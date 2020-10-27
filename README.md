@@ -8,3 +8,4 @@ bootstrapping for business.
 
 
 ## [aws eks kubernetes](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
+- [aws eks 한글 참고자료](https://sarc.io/index.php/aws/1760-eksctl-aws-eks)
