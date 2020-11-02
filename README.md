@@ -1,8 +1,8 @@
 # fast.biz
 bootstrapping for business.
 
-## [firebase auth login](https://github.com/dohyung97022/firebase-login)
-
+## [firebase (login only)](https://github.com/dohyung97022/firebase)
+Firebase sucks at database. Use mysql.   
 
 ## [relevent keyword finder (marketing)](https://github.com/dohyung97022/rel-kw)
 
